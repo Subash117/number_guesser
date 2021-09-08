@@ -21,6 +21,6 @@ To restart the current level type 1 and press Enter
 After completing all 5 Levels, if you want, To exit just Press Enter.
 					    To restart the Program type 1 and press Enter.
 
-(The Python code for the above game is in the Code Folder....Please do check it out)
+(The Python code for the above game is in the Code directory....Please do check it out)
  
 Program by @Subash117
